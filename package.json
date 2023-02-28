@@ -1,5 +1,5 @@
 {
-  "name": "proxy",
+  "name": "simple-express-proxy",
   "version": "1.0.0",
   "description": "simple_proxy_for_discord",
   "main": "index.js",
